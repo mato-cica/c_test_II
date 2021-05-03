@@ -3,6 +3,7 @@ C programming language test made by codility.com service. Task to do is:
 
 How many officers should salute their superiors if each salute only the officers who are one rank up?
 Given is a set of officers with their ranks as ranks[]. 
+
 ranks[] have a range of 2 - 100,000, and members of ranks[] are form 0 to 1,000,000,000.
 Write a function:
 
